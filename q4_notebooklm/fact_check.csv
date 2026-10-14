@@ -1,0 +1,23 @@
+claim_no,claim_as_stated_by_the_tool,where_it_appeared,verdict,note
+1,"AI Ethics Principles published 7 Nov 2019, updated December 2025",briefing,SUPPORTED,"Page shows published 7 November 2019, updated 2 December 2025"
+2,Exactly eight principles as listed; voluntary,"chat, mind map, briefing",SUPPORTED,
+3,"Principles grouped under 'Human & Social Wellbeing', 'Fairness & Rights', 'Trust & Governance'",mind map,NOT IN SOURCE,Source is a flat list. Headings invented.
+4,Guidance for AI Adoption (21 Oct 2025) 'consolidates and evolves' the 8 principles and 10 guardrails into 6 practices; 'the former 8 AI Ethics Principles',"briefing, quiz",PARTLY / EMBELLISHED,Source says 'evolves'. 'Consolidates' and 'former' are not in the sources; neither says the Principles were replaced.
+5,Six practice names,"chat, mind map, briefing",SUPPORTED,Practice 3 has a longer subtitle on the page
+6,Sixteen sub-practices and the practice each sits under (incl. data governance and cybersecurity under practice 5),"mind map, briefing",SUPPORTED,Source says 'alternative pathways'; 'non-AI' was added
+7,"'Organisations must...', 'explicitly mandates'","briefing, quiz",EMBELLISHED,"Guidance wording; 'should' about 12 times, 'must' once. Not mandatory."
+8,Guidance attributed to the National AI Centre,quiz,PARTLY,Hosted on the Centre's site; the Ethics Principles page says the Department published it
+9,Mandatory climate disclosure follows the Treasury Laws Amendment (Financial Market Infrastructure and Other Measures) Act 2024; Chapter 2M,briefing,SUPPORTED,
+10,"Group start dates 1 Jan 2025, 1 Jul 2026, 1 Jul 2027","chat, briefing, quiz",SUPPORTED,
+11,"Thresholds 'based on revenue, gross asset values, employee numbers, NGER reporting status, or asset owner thresholds'",briefing,PARTLY / EMBELLISHED,"Source: at least two of three size criteria (revenue, assets, employees). The 'or' list drops the two-of-three test."
+12,"AASB S1 voluntary, S2 mandatory, Appendix D makes S2 standalone","chat, briefing, quiz",SUPPORTED,
+13,AASB S2 has no requirement to disclose industry-based metrics (difference from IFRS S2),"chat, briefing, quiz",SUPPORTED,
+14,"Four pillars and Scope 1, 2, 3; water not in scope","chat, briefing",SUPPORTED,Water is not mentioned in the source; 'out of scope' is a sound inference
+15,ASIC enforces; AASB sets standards and does not interpret,briefing,SUPPORTED,
+16,"AUASB sets assurance (ASSA 5000, ASSA 5010); digital tagging voluntary; Implementation Advisory Panel",briefing,SUPPORTED,
+17,Sources state no penalty amount,chat,SUPPORTED,Tool was right to decline
+18,APP 1.7 to 1.9 start 10 December 2026 under the Privacy and Other Legislation Amendment Act 2024,"chat, briefing, quiz",SUPPORTED,
+19,"Three cumulative conditions, APP 1.7(a), (b), (c)","chat, briefing",SUPPORTED,
+20,"APP 1.8 disclosures, with gloss '(where human involvement relies substantially on the automated output)'",briefing,PARTLY / EMBELLISHED,Three items supported; the gloss is not in the source
+21,"OAIC published a fact sheet, a supplementary fact sheet for agencies, a flowchart and updated APP 1 guidelines","briefing, mind map",SUPPORTED,
+22,A program using no personal information falls outside APP 1.7,chat,SUPPORTED (inference),Conditions are cumulative; the source does not state the negative

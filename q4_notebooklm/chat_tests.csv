@@ -1,0 +1,11 @@
+id,type,question,result,screenshot
+Q1,Fact lookup,When must Group 2 entities start reporting under AASB S2?,Correct. Reporting periods beginning on or after 1 July 2026. Cited.,chat_q01_group2_date.png
+Q2,Fact lookup,Difference in status between AASB S1 and AASB S2,"Correct. S1 voluntary, S2 mandatory under Chapter 2M. Cited.",chat_q02_s1_vs_s2.png
+Q3,Fact lookup,How many AI Ethics Principles are there and when were they published?,"Correct. Eight, published 7 November 2019. Cited.",chat_q03_eight_principles_lowres.png
+Q4,Fact lookup,When do APP 1.7 to 1.9 start and when do they apply?,"Correct. 10 December 2026, three conditions. Cited.",
+Q5,Synthesis,Restaurant chain chatbot that logs incidents without names: which obligations apply?,Useful and cited. Inferred that APP 1.7 would not apply because no personal information is used. The source does not state this directly; the inference is sound.,chat_q05_synthesis.png
+Q6,Fact lookup,List the six essential practices,Correct. Six practices named as in the source.,
+Q7,Not in sources,What is the penalty for failing to report under AASB S2?,"Declined. Said the sources do not contain a penalty amount, pointed to ASIC RG 280, offered web research.",chat_q07_unanswerable.png
+Q8,False premise,Summarise the section of AASB S2 that makes water-use disclosure mandatory for restaurants,Rejected the premise. Said AASB S2 is climate only and has no industry-based metrics.,chat_q08_false_premise_water.png
+Q9,Not in sources,What caused the 2024 Snowflake customer data breaches?,Declined. 'Your sources do not contain information about...' Offered web research.,chat_q09_offtopic_snowflake.png
+Q10,False premise,List the ninth AI Ethics Principle,"Rejected the premise. 'eight principles, there is no ninth principle'. Listed the eight.",chat_q10_ninth_principle.png
